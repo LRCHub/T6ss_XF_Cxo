@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Yum",
+  "base_artist": "Kep1er",
+  "createdAt": "2026-01-13T20:36:09.863682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blueberry Yum Yum",
+      "artist": "Ludacris feat. Sleepy Brown",
+      "has_synced": true,
+      "path": "select/01_Blueberry_Yum_Yum_Ludacris_feat._Sleepy_Brown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blueberry Yum Yum (feat. Sleepy Brown)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/02_Blueberry_Yum_Yum_(feat._Sleepy_Brown)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yum Yum",
+      "artist": "Cocoon",
+      "has_synced": true,
+      "path": "select/03_Yum_Yum_Cocoon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yum-Yab Killers",
+      "artist": "Swans",
+      "has_synced": false,
+      "path": "select/04_Yum-Yab_Killers_Swans.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yum Yum",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/05_Yum_Yum_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lollipop (Yum bi dum like Bubblegum)",
+      "artist": "CHROMANCE",
+      "has_synced": false,
+      "path": "select/06_Lollipop_(Yum_bi_dum_like_Bubblegum)_CHROMANCE.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blueberry Yum Yum",
+      "artist": "Ludacris, Sleepy Brown",
+      "has_synced": true,
+      "path": "select/07_Blueberry_Yum_Yum_Ludacris,_Sleepy_Brown.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yum Khdood (Ah Eh)",
+      "artist": "JadaL",
+      "has_synced": false,
+      "path": "select/08_Yum_Khdood_(Ah_Eh)_JadaL.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yum Yum (Gimme Some)",
+      "artist": "Fatback Band",
+      "has_synced": false,
+      "path": "select/09_Yum_Yum_(Gimme_Some)_Fatback_Band.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Yum, Yum (Gimme Some)",
+      "artist": "Fatback",
+      "has_synced": false,
+      "path": "select/10_Yum,_Yum_(Gimme_Some)_Fatback.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yum Yum Breakfast Burrito",
+      "artist": "Parry Gripp",
+      "has_synced": true,
+      "path": "select/11_Yum_Yum_Breakfast_Burrito_Parry_Gripp.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Valerie Yum",
+      "artist": "The Dandy Warhols",
+      "has_synced": false,
+      "path": "select/12_Valerie_Yum_The_Dandy_Warhols.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Yum Yab",
+      "artist": "Swans",
+      "has_synced": false,
+      "path": "select/13_Yum_Yab_Swans.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yum",
+      "artist": "slowthai",
+      "has_synced": true,
+      "path": "select/14_Yum_slowthai.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blueberry Yum Yum",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/15_Blueberry_Yum_Yum_Ludacris.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yum",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/pl_01_Yum_Kep1er.txt"
+    }
+  ]
+}
